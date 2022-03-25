@@ -1,4 +1,4 @@
-Usage
+Apps
 =====
 
 .. _installation:
