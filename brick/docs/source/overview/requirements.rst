@@ -1,4 +1,4 @@
-Usage
+Requirements
 =====
 
 .. _installation:
