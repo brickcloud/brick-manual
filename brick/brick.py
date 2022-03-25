@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Brick - Container Management Platform based on Google Kubernetes.
 """
 
 __version__ = "0.1.0"
