@@ -4,7 +4,7 @@
 
 project = 'Brick'
 copyright = '2021, CloudHUB'
-author = 'igkyu Choi'
+author = '최 익규'
 
 release = '0.1'
 version = '0.1.0'
