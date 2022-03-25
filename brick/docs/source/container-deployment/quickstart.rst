@@ -1,4 +1,4 @@
-Usage
+QuickStart
 =====
 
 .. _installation:
