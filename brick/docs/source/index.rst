@@ -155,7 +155,7 @@ Read the Docs has a commercial offering with improved support and additional fea
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
    :caption: Read the Docs for Business
    :glob:
@@ -169,36 +169,11 @@ Learn about Read the Docs, the project and the company,
 and find out how you can get involved and contribute to the development and success
 of Read the Docs and the larger software documentation ecosystem.
 
-* **Policies & Process**:
-  :doc:`security` |
-  :doc:`DMCA takedown policy <dmca/index>` |
-  :doc:`Policy for abandoned projects <abandoned-projects>` |
-  :doc:`Release notes & changelog <changelog>`
-
-* **The people and philosophy behind Read the Docs**:
-  :doc:`About Us </about>` |
-  :doc:`Team <team>` |
-  :doc:`Open source philosophy <open-source-philosophy>` |
-  :doc:`Our story <story>`
-
-* **Financial and material support**:
-  :doc:`advertising/index` |
-  :doc:`Sponsors <sponsors>`
-
-* **Legal documents**:
-  :doc:`Terms of service <terms-of-service>` |
-  :doc:`Privacy policy <privacy-policy>` |
-  :doc:`Data processing agreement <legal/dpa/index>`
-
-* **Getting involved with Read the Docs**:
-  :doc:`Developer Documentation <rtd-dev:index>` |
-  :doc:`/gsoc`
-
 
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: About Read the Docs
+   :caption: About Read the Docs2
 
    security
    dmca/index
