@@ -16,25 +16,14 @@ how to :ref:`installation` the project.
 Contents
 --------
 .. toctree::
-   :maxdepth: 2
-   :caption: Table of Contents
-
-   disclaimer
+   :maxdepth: 3
+   :caption: Overview
    overview/overview
-   installation/installation
-   login/login
-   summary/summary
-   sessions_all/sessions_all
-   import_run/import_run
-   vfolder/vfolder
-   mount_vfolder/mount_vfolder
-   share_vfolder/share_vfolder
-   statistics/statistics
-   sftp_to_container/sftp_to_container
-   user_settings/user_settings
-   cluster_session/cluster_session
-   admin_menu/admin_menu
-   trouble_shooting/trouble_shooting
-   appendix/appendix
-   license_agreement/license_agreement
-   references/references
+   overview/requirements
+   :caption: Using Brick
+   utilization/description
+   utilization/user-management
+   utilization/container-deployment/index
+   utilization/container-deployment/apps
+   utilization/container-deployment/quickstart
+   utilization/container-deployment/yaml
