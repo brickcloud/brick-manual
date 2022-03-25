@@ -18,15 +18,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
-   :caption: First steps
    usage
    api
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
 
-   /intro/import-guide
-   /features
-   /choosing-a-site
-   /glossary
