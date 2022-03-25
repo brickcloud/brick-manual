@@ -1,4 +1,4 @@
-Usage
+YAML
 =====
 
 .. _installation:
