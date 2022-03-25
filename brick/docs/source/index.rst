@@ -73,9 +73,12 @@ and some of the core features of Read the Docs.
    :caption: Using Brick
    
    user-management/usermanagement
+   :caption: Container Deployment
+
    container-deployment/apps
    container-deployment/quickstart
    container-deployment/yaml
+
    container-management/container-management
    
 
