@@ -56,16 +56,9 @@ to help you create fantastic documentation for your project.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: First steps
-
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-
-   /intro/import-guide
-   /features
-   /choosing-a-site
-   /glossary
+   :caption: Overview
+   overview/overview
+   overview/requirements
 
 
 Read the Docs feature overview
