@@ -67,57 +67,15 @@ Read the Docs feature overview
 Learn more about configuring your automated documentation builds
 and some of the core features of Read the Docs.
 
-* **Overview of core features**:
-  :doc:`/integrations` |
-  :doc:`/custom_domains` |
-  :doc:`/versions` |
-  :doc:`/downloadable-documentation` |
-  :doc:`/hosting` |
-  :doc:`/server-side-search` |
-  :doc:`/analytics` |
-  :doc:`/pull-requests` |
-  :doc:`/build-notifications` |
-  :doc:`/user-defined-redirects` |
-  :doc:`/security-log`
-
-* **Connecting with GitHub, BitBucket, or GitLab**:
-  :doc:`Connecting your VCS account </connected-accounts>`
-
-* **Read the Docs build process**:
-  :doc:`Configuration reference </config-file/index>` |
-  :doc:`Build process </builds>` |
-  :doc:`/environment-variables` |
-  :doc:`/badges`
-
-* **Troubleshooting**:
-  :doc:`/support` |
-  :doc:`Frequently asked questions </faq>`
-
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
-   :caption: Feature Overview
-
-   /config-file/index
-   /integrations
-   /custom_domains
-   /versions
-   /downloadable-documentation
-   /hosting
-   /server-side-search
-   /analytics
-   /pull-requests
-   /build-notifications
-   /security-log
-
-   /connected-accounts
-
-   /builds
-   /environment-variables
-   /badges
-
-   /support
-   /faq
+   :caption: Using Brick
+   
+   user-management/usermanagement
+   container-deployment/apps
+   container-deployment/quickstart
+   container-deployment/yaml
 
 
 How-to Guides
@@ -127,26 +85,6 @@ These guides will help walk you through specific use cases
 related to Read the Docs itself, documentation tools like Sphinx and MkDocs
 and how to write successful documentation.
 
-* **For documentation authors**:
-  :doc:`/guides/cross-referencing-with-sphinx` |
-  :doc:`/guides/intersphinx` |
-  :doc:`/guides/jupyter` |
-  :doc:`More guides for authors </guides/authors>`
-
-* **For project administrators**:
-  :doc:`/guides/technical-docs-seo-guide` |
-  :doc:`/guides/manage-translations-sphinx` |
-  :doc:`/guides/advanced-search` |
-  :doc:`/guides/private-submodules` |
-  :doc:`More guides for administrators </guides/administrators>`
-
-* **For developers and designers**:
-  :doc:`/guides/private-python-packages` |
-  :doc:`/guides/adding-custom-css` |
-  :doc:`/guides/reproducible-builds` |
-  :doc:`/guides/embedding-content` |
-  :doc:`/guides/conda` |
-  :doc:`More guides for developers and designers </guides/developers>`
 
 .. toctree::
  :maxdepth: 2
