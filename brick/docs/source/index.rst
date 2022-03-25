@@ -298,7 +298,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   We are working on adding new features to Brick.
 
 
 
