@@ -57,19 +57,28 @@ Learn more about configuring your automated documentation builds
 and some of the core features of Read the Docs.
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
    :hidden:
-   :caption: Using Brick
+   :caption: User Management
    
    user-management/usermanagement
+
+
+Read the Docs feature overview
+------------------------------
+
+Learn more about configuring your automated documentation builds
+and some of the core features of Read the Docs.
+
+.. toctree::
+   :maxdepth: 3
+   :hidden:
    :caption: Container Deployment
 
    container-deployment/apps
    container-deployment/quickstart
    container-deployment/yaml
 
-   container-management/container-management
-   
 
 How-to Guides
 -------------
@@ -80,115 +89,11 @@ and how to write successful documentation.
 
 
 .. toctree::
- :maxdepth: 3
- :hidden:
- :caption: How-to Guides
+  :maxdepth: 3
+  :hidden:
+  :caption: How-to Guides
 
- /guides/authors
- /guides/administrators
- /guides/developers
-
-Advanced features of Read the Docs
-----------------------------------
-
-Read the Docs offers many advanced features and options.
-Learn more about these integrations and how you can get the most
-out of your documentation and Read the Docs.
-
-* **Advanced project configuration**:
-  :doc:`subprojects` |
-  :doc:`Single version docs <single_version>` |
-  :doc:`feature-flags`
-
-* **Multi-language documentation**:
-  :doc:`Translations and localization <localization>`
-
-* **Redirects**:
-  :doc:`Automatic redirects <automatic-redirects>`
-
-* **Versions**
-  :doc:`Automation rules <automation-rules>`
-
-* **Topic specific guides**:
-  :doc:`How-to guides <guides/index>`
-
-* **Extending Read the Docs**:
-  :doc:`REST API <api/index>`
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: Advanced features
-
-   subprojects
-   single_version
-   feature-flags
-
-   localization
-
-   user-defined-redirects
-   automatic-redirects
-
-   automation-rules
-
-
-   api/index
-
-Read the Docs for Business
---------------------------
-
-Read the Docs has a commercial offering with improved support and additional features.
-
-* **Read the Docs for Business**:
-  :doc:`Organizations <commercial/organizations>` |
-  :doc:`Single Sign On <commercial/single-sign-on>` |
-  :doc:`Project Privacy Level <commercial/privacy-level>` |
-  :doc:`Sharing externally <commercial/sharing>`
-
-
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: Read the Docs for Business
-   :glob:
-
-   commercial/*
-
-The Read the Docs project and organization
-------------------------------------------
-
-Learn about Read the Docs, the project and the company,
-and find out how you can get involved and contribute to the development and success
-of Read the Docs and the larger software documentation ecosystem.
-
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: About Read the Docs2
-
-   security
-   dmca/index
-   abandoned-projects
-   changelog
-
-   about
-   team
-   open-source-philosophy
-   story
-
-   advertising/index
-   sponsors
-
-   legal/index
-
-   Developer Documentation <https://dev.readthedocs.io>
-   gsoc
-
-
-
-
+ container-management/container-management
 
 
 Welcome to Brick's Documentation!
