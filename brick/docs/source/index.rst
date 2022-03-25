@@ -41,17 +41,6 @@ or are you looking to use your existing docs with Read the Docs?
 Learn about documentation authoring tools such as Sphinx and MkDocs
 to help you create fantastic documentation for your project.
 
-* **Tutorial**: :doc:`/tutorial/index`
-
-* **Getting started**:
-  :doc:`With Sphinx </intro/getting-started-with-sphinx>` |
-  :doc:`With MkDocs </intro/getting-started-with-mkdocs>` |
-  :doc:`Feature Overview </features>` |
-  :doc:`/choosing-a-site` | :doc:`/glossary`
-
-* **Importing your existing documentation**:
-  :doc:`Import guide </intro/import-guide>`
-
 
 .. toctree::
    :maxdepth: 3
