@@ -68,7 +68,7 @@ Learn more about configuring your automated documentation builds
 and some of the core features of Read the Docs.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Using Brick
    
@@ -76,7 +76,8 @@ and some of the core features of Read the Docs.
    container-deployment/apps
    container-deployment/quickstart
    container-deployment/yaml
-
+   container-management/container-management
+   
 
 How-to Guides
 -------------
@@ -87,7 +88,7 @@ and how to write successful documentation.
 
 
 .. toctree::
- :maxdepth: 2
+ :maxdepth: 3
  :hidden:
  :caption: How-to Guides
 
