@@ -44,7 +44,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 * **Requirements**: :doc:`/overview/requirements`
 
-* **Functions**: :doc:`/overview/functions`
+* **Functions**: :doc:`/overview/descriptions`
 
 
 .. toctree::
