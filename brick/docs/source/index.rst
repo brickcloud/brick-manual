@@ -39,10 +39,6 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
     
 .. _Brick: http://brickcloud.co.kr/
 
-* **Application Delivery / Management**
-* **CI / CD**
-* **Scalability & High Availablity**
-* **Integrated Monitoring**
 
 * **Overview**: :doc:`/overview/overview`
 
@@ -54,7 +50,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Overview
+   :caption: Feature Overview
 
    /overview/overview
    /overview/requirements
