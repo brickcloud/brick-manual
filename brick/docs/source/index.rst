@@ -29,7 +29,7 @@ Features
 * **Application Delivery / Management**
 * **CI / CD**
 * **Scalability & High Availablity**
-* **Monitoring**
+* **Integrated monitoring**
 |
 
 First steps
