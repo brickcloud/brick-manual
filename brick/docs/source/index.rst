@@ -7,17 +7,15 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
     
 .. _Brick: http://brickcloud.co.kr/
 
+Brick은 다음과 같은 서비스를 제공합니다.
 
 `Read the Docs`_ simplifies software documentation
 by building, versioning, and hosting of your docs, automatically.
 Think of it as *Continuous Documentation*.
-
-Never out of sync |:arrows_counterclockwise:|
-    Whenever you push code to your favorite version control system,
-    whether that is Git, Mercurial, Bazaar, or Subversion,
-    Read the Docs will automatically build your docs
-    so your code and documentation are always up-to-date.
-    Read more about :doc:`/integrations`.
+*Continuous Documentation*.
+*On-Demand*
+    사용자가 요구하는 Application 환경을 필요한 시점에,
+    컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
 Multiple versions |:card_index_dividers:|
     Read the Docs can host and build multiple versions of your docs
