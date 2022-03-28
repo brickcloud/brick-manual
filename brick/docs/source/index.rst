@@ -9,10 +9,6 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 Brick은 다음과 같은 서비스를 제공합니다.
 
-`Read the Docs`_ simplifies software documentation
-by building, versioning, and hosting of your docs, automatically.
-Think of it as *Continuous Documentation*.
-*Continuous Documentation*.
 *On-Demand*
     사용자가 요구하는 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
