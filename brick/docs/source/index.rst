@@ -40,16 +40,11 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 .. _Brick: http://brickcloud.co.kr/
 
 
-* **Tutorial**: :doc:`/tutorial/index`
+* **Overview**: :doc:`/overview/overview`
 
-* **Getting started**:
-  :doc:`With Sphinx </intro/getting-started-with-sphinx>` |
-  :doc:`With MkDocs </intro/getting-started-with-mkdocs>` |
-  :doc:`Feature Overview </features>` |
-  :doc:`/choosing-a-site` | :doc:`/glossary`
+* **Requirements**: :doc:`/overview/requirements`
 
-* **Importing your existing documentation**:
-  :doc:`Import guide </intro/import-guide>`
+* **Functions**: :doc:`/overview/functions`
 
 
 .. toctree::
@@ -57,14 +52,10 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
    :hidden:
    :caption: Overview
 
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
+   /overview/overview
+   /overview/requirements
+   /intro/descriptions
 
-   /intro/import-guide
-   /features
-   /choosing-a-site
-   /glossary
 
 
 Container Deployment
