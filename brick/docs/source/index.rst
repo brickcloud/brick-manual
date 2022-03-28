@@ -1,8 +1,12 @@
 Brick User Guide
 =======================================
 
-.. meta::
-   :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
+Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트웨어입니다. 
+기업들이 온프레미스 환경에서 컨테이너 기반의 애플리케이션들을 
+쉽고 빠르게 배포하고 운영 할 수 있도록 다양한 기능들을 제공하고 있습니다.
+    
+.. _Brick: http://brickcloud.co.kr/
+
 
 `Read the Docs`_ simplifies software documentation
 by building, versioning, and hosting of your docs, automatically.
