@@ -50,7 +50,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Feature Overview
+   :caption: Overview
 
    /overview/overview
    /overview/requirements
@@ -91,31 +91,13 @@ and some of the core features of Read the Docs.
   :doc:`Frequently asked questions </faq>`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
-   :caption: Feature Overview
+   :caption: Container Deployment
 
-   /config-file/index
-   /integrations
-   /custom_domains
-   /versions
-   /downloadable-documentation
-   /hosting
-   /server-side-search
-   /analytics
-   /pull-requests
-   /build-notifications
-   /security-log
-
-   /connected-accounts
-
-   /builds
-   /environment-variables
-   /badges
-
-   /support
-   /faq
-
+   deployment/apps
+   deployment/quickstart
+   deployment/yaml
 
 How-to Guides
 -------------
