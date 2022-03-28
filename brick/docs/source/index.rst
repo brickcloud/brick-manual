@@ -35,8 +35,7 @@ You can find out more about our all the :doc:`/features` in these pages.
 
 First steps
 -----------
-Brick_.
-
+Brick_
 .. _Brick: http://brickcloud.co.kr/
 은 Google Kubernetes 기반의 컨테이너 관리 소프트웨어입니다. 
 컨테이너 배포 및 운영 관련하여 다양한 기능들을 제공하여, 기업들이 온프레미스 환경의 Kubernetes 클러스터를 통해
