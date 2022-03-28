@@ -8,11 +8,6 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 .. _Brick: http://brickcloud.co.kr/
 
 
-
-
-
-
-
 *On-Demand Deploy*|:cloud_with_lightning:|
     사용자가 요구하는 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
@@ -26,19 +21,6 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 *Low Price*|:dollar:|
     저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
-
-
-Open Source and User Focused |:heartbeat:|
-    Our code is free and `open source <https://github.com/readthedocs/>`_.
-    :doc:`Our company </about>` is bootstrapped and 100% user focused.
-    |org_brand| hosts documentation for over 100,000 large
-    and small open source projects,
-    in almost every human and computer language.
-    |com_brand| supports hundreds of organizations with product and internal documentation.
-
-.. _Read the docs: https://readthedocs.org/
-
-You can find out more about our all the :doc:`/features` in these pages.
 
 
 First steps
