@@ -9,16 +9,20 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 Brick은 다음과 같은 서비스를 제공합니다.
 
-*On-Demand*
+*On-Demand Deploy*
     사용자가 요구하는 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
-Multiple versions |:card_index_dividers:|
-    Read the Docs can host and build multiple versions of your docs
-    so having a 1.0 version of your docs and a 2.0 version
-    of your docs is as easy as having a separate branch or tag in your version control system.
-    Read more about :doc:`/versions`.
+*GPU Scheduling*
+    서버들의 GPU 자원을 클러스터로 통합하여 사용할 수 있으며,
+    인공지능(머신러닝) 개발 및 학습을 위해 GPU를 필요한 만큼 할당하여,
+    머신러닝 개발/학습을 위한 GPU 개발환경을 제공합니다.
 
+*GPU Scheduling*
+    서버들의 GPU 자원을 클러스터로 통합하여 사용할 수 있으며,
+    인공지능(머신러닝) 개발 및 학습을 위해 GPU를 필요한 만큼 할당하여,
+    머신러닝 개발/학습을 위한 GPU 개발환경을 제공합니다.
+    
 Open Source and User Focused |:heartbeat:|
     Our code is free and `open source <https://github.com/readthedocs/>`_.
     :doc:`Our company </about>` is bootstrapped and 100% user focused.
