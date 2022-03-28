@@ -94,8 +94,8 @@ and some of the core features of Read the Docs.
    :hidden:
    :caption: User Management
 
-   user-management/users
-   user-management/roles
+   /user-management/users
+   /user-management/roles
 
 
 Container Deployment
@@ -135,9 +135,9 @@ and some of the core features of Read the Docs.
    :hidden:
    :caption: Container Deployment
 
-   container-deployment/apps
-   container-deployment/quickstart
-   container-deployment/yaml
+   /container-deployment/apps
+   /container-deployment/quickstart
+   /container-deployment/yaml
 
 How-to Guides
 -------------
