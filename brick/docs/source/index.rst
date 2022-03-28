@@ -14,14 +14,11 @@ Brick은 다음과 같은 서비스를 제공합니다.
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
 *GPU Scheduling*
-    서버들의 GPU 자원을 클러스터로 통합하여 사용할 수 있으며,
-    인공지능(머신러닝) 개발 및 학습을 위해 GPU를 필요한 만큼 할당하여,
-    머신러닝 개발/학습을 위한 GPU 개발환경을 제공합니다.
+    서버들의 GPU 자원을 클러스터로 통합하고,
+    인공지능(머신러닝) 개발 및 학습을 위해 필요한 GPU 개발환경을 제공합니다.
 
-*GPU Scheduling*
-    서버들의 GPU 자원을 클러스터로 통합하여 사용할 수 있으며,
-    인공지능(머신러닝) 개발 및 학습을 위해 GPU를 필요한 만큼 할당하여,
-    머신러닝 개발/학습을 위한 GPU 개발환경을 제공합니다.
+*Container Monitoring*
+    수많은 컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
     
 Open Source and User Focused |:heartbeat:|
     Our code is free and `open source <https://github.com/readthedocs/>`_.
