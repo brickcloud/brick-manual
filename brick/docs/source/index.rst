@@ -139,7 +139,7 @@ and some of the core features of Read the Docs.
    /container-deployment/quickstart
    /container-deployment/yaml
 
-How-to Guides
+Container Management
 -------------
 
 These guides will help walk you through specific use cases
@@ -176,7 +176,7 @@ and how to write successful documentation.
  /guides/administrators
  /guides/developers
 
-Advanced features of Read the Docs
+Application Configuration
 ----------------------------------
 
 Read the Docs offers many advanced features and options.
@@ -223,7 +223,7 @@ out of your documentation and Read the Docs.
 
    api/index
 
-Read the Docs for Business
+Volume
 --------------------------
 
 Read the Docs has a commercial offering with improved support and additional features.
@@ -243,7 +243,7 @@ Read the Docs has a commercial offering with improved support and additional fea
 
    commercial/*
 
-The Read the Docs project and organization
+Resources
 ------------------------------------------
 
 Learn about Read the Docs, the project and the company,
