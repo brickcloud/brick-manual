@@ -1,4 +1,4 @@
-QuickStart
+Deploy With QuickStart
 =====
 
 .. _installation:
