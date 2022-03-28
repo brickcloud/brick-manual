@@ -1,4 +1,4 @@
-Deploy Apps
+Deploy With Apps
 =====
 
 .. _installation:
