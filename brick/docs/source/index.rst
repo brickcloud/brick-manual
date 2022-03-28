@@ -31,7 +31,7 @@ Features
 * **Integrated Monitoring**
 |
 
-Feature Overview
+Overview
 -----------
 Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트웨어입니다. 
 기업들이 온프레미스 환경에서 컨테이너 기반의 애플리케이션들을 
@@ -56,6 +56,46 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
    /overview/requirements
    /overview/descriptions
 
+
+User Management
+------------------------------
+
+Learn more about configuring your automated documentation builds
+and some of the core features of Read the Docs.
+
+* **Overview of core features**:
+  :doc:`/integrations` |
+  :doc:`/custom_domains` |
+  :doc:`/versions` |
+  :doc:`/downloadable-documentation` |
+  :doc:`/hosting` |
+  :doc:`/server-side-search` |
+  :doc:`/analytics` |
+  :doc:`/pull-requests` |
+  :doc:`/build-notifications` |
+  :doc:`/user-defined-redirects` |
+  :doc:`/security-log`
+
+* **Connecting with GitHub, BitBucket, or GitLab**:
+  :doc:`Connecting your VCS account </connected-accounts>`
+
+* **Read the Docs build process**:
+  :doc:`Configuration reference </config-file/index>` |
+  :doc:`Build process </builds>` |
+  :doc:`/environment-variables` |
+  :doc:`/badges`
+
+* **Troubleshooting**:
+  :doc:`/support` |
+  :doc:`Frequently asked questions </faq>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: User Management
+
+   user-management/users
+   user-management/roles
 
 
 Container Deployment
@@ -95,9 +135,9 @@ and some of the core features of Read the Docs.
    :hidden:
    :caption: Container Deployment
 
-   deployment/apps
-   deployment/quickstart
-   deployment/yaml
+   container-deployment/apps
+   container-deployment/quickstart
+   container-deployment/yaml
 
 How-to Guides
 -------------
