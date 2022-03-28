@@ -298,3 +298,51 @@ of Read the Docs and the larger software documentation ecosystem.
 
    Developer Documentation <https://dev.readthedocs.io>
    gsoc
+
+
+CI/CD
+----------------------------------
+
+Read the Docs offers many advanced features and options.
+Learn more about these integrations and how you can get the most
+out of your documentation and Read the Docs.
+
+* **Advanced project configuration**:
+  :doc:`subprojects` |
+  :doc:`Single version docs <single_version>` |
+  :doc:`feature-flags`
+
+* **Multi-language documentation**:
+  :doc:`Translations and localization <localization>`
+
+* **Redirects**:
+  :doc:`Automatic redirects <automatic-redirects>`
+
+* **Versions**
+  :doc:`Automation rules <automation-rules>`
+
+* **Topic specific guides**:
+  :doc:`How-to guides <guides/index>`
+
+* **Extending Read the Docs**:
+  :doc:`REST API <api/index>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Advanced features
+
+   subprojects
+   single_version
+   feature-flags
+
+   localization
+
+   user-defined-redirects
+   automatic-redirects
+
+   automation-rules
+
+
+   api/index
