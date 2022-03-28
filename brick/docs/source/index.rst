@@ -19,7 +19,11 @@ Brick은 다음과 같은 서비스를 제공합니다.
 
 *Container Monitoring*
     수많은 컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
-    
+
+*Low Price*
+    저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
+
+
 Open Source and User Focused |:heartbeat:|
     Our code is free and `open source <https://github.com/readthedocs/>`_.
     :doc:`Our company </about>` is bootstrapped and 100% user focused.
