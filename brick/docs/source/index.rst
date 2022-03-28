@@ -28,10 +28,10 @@ Features
 * **Application Delivery / Management**
 * **CI / CD**
 * **Scalability & High Availablity**
-* **Integrated monitoring**
+* **Integrated Monitoring**
 |
 
-First steps
+Overview
 -----------
 Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트웨어입니다. 
 기업들이 온프레미스 환경에서 컨테이너 기반의 애플리케이션들을 
@@ -55,7 +55,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: First steps
+   :caption: Overview
 
    /tutorial/index
    /intro/getting-started-with-sphinx
@@ -67,7 +67,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
    /glossary
 
 
-Read the Docs feature overview
+Container Deployment
 ------------------------------
 
 Learn more about configuring your automated documentation builds
