@@ -1,5 +1,5 @@
 
-Description
+Descriptions
 =====
 
 .. _installation:
