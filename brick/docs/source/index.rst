@@ -21,7 +21,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 *Container Monitoring*|:chart_with_downwards_trend:|
     수많은 컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
 
-*Low Price*|:moneybag:|
+*Low Price*|:dollar:|
     저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
 
 
