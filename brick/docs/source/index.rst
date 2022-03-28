@@ -7,20 +7,21 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
     
 .. _Brick: http://brickcloud.co.kr/
 
-Brick은 다음과 같은 서비스를 제공합니다.
 
-*On-Demand Deploy*
+
+
+*On-Demand Deploy*|:heartbeat:|
     사용자가 요구하는 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
-*GPU Scheduling*
+*GPU Scheduling*|:heartbeat:|
     서버들의 GPU 자원을 클러스터로 통합하고,
     인공지능(머신러닝) 개발 및 학습을 위해 필요한 GPU 개발환경을 제공합니다.
 
-*Container Monitoring*
+*Container Monitoring*|:heartbeat:|
     수많은 컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
 
-*Low Price*
+*Low Price*|:heartbeat:|
     저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
 
 
@@ -35,6 +36,7 @@ Open Source and User Focused |:heartbeat:|
 .. _Read the docs: https://readthedocs.org/
 
 You can find out more about our all the :doc:`/features` in these pages.
+
 
 First steps
 -----------
