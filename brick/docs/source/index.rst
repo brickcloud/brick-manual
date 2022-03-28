@@ -10,7 +10,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 
 
-*On-Demand Deploy*|:alarm_clock:|
+*On-Demand Deploy*|:cloud_with_lightning:|
     사용자가 요구하는 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
