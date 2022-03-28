@@ -170,7 +170,7 @@ and how to write successful documentation.
 .. toctree::
  :maxdepth: 2
  :hidden:
- :caption: How-to Guides
+ :caption: Container Management
 
  /guides/authors
  /guides/administrators
@@ -207,7 +207,8 @@ out of your documentation and Read the Docs.
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Advanced features
+   :caption: Application Configuration
+
 
    subprojects
    single_version
@@ -222,6 +223,7 @@ out of your documentation and Read the Docs.
 
 
    api/index
+
 
 Volume
 --------------------------
@@ -238,7 +240,7 @@ Read the Docs has a commercial offering with improved support and additional fea
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Read the Docs for Business
+   :caption: Volume
    :glob:
 
    commercial/*
@@ -279,8 +281,8 @@ of Read the Docs and the larger software documentation ecosystem.
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: About Read the Docs
-
+   :caption: Resources
+   
    security
    dmca/index
    abandoned-projects
@@ -331,7 +333,7 @@ out of your documentation and Read the Docs.
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Advanced features
+   :caption: CI / CD
 
    subprojects
    single_version
@@ -379,7 +381,7 @@ out of your documentation and Read the Docs.
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Advanced features
+   :caption: Monitoring
 
    subprojects
    single_version
@@ -427,7 +429,7 @@ out of your documentation and Read the Docs.
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Advanced features
+   :caption: FAQ
 
    subprojects
    single_version
@@ -475,7 +477,7 @@ out of your documentation and Read the Docs.
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Advanced features
+   :caption: TroubleShooting
 
    subprojects
    single_version
