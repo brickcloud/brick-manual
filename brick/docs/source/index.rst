@@ -1,4 +1,4 @@
-Brick: Documentation
+Brick User Guide
 =======================================
 
 .. meta::
