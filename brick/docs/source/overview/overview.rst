@@ -16,7 +16,7 @@
 가장 적합한 기술이라고 할 수 있습니다. 만일 기존 하나의 노드에서 그 모든 환경을 구현하고 운영한다면, 프로그램 간 호환성 문제와 자원 분배 등의 여러 문제가 발생할 것입니다.
 
 
-.. figure:: /_static/images/overview/container_description1.png
+.. figure:: /_static/images/overview/container-description1.png
    :width: 80%
    :align: center
    :alt: 컨테이너 격리환경
