@@ -91,7 +91,7 @@ and some of the core features of Read the Docs.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: User Management
+   :caption: Features
 
    /features/namespace
    /features/cluster
