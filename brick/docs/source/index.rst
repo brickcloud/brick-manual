@@ -44,8 +44,6 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
 * **Requirements**: :doc:`/overview/requirements`
 
-* **Functions**: :doc:`/overview/descriptions`
-
 
 .. toctree::
    :maxdepth: 2
@@ -54,10 +52,9 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 
    /overview/overview
    /overview/requirements
-   /overview/descriptions
 
 
-User Management
+Features
 ------------------------------
 
 Learn more about configuring your automated documentation builds
@@ -94,8 +91,57 @@ and some of the core features of Read the Docs.
    :hidden:
    :caption: User Management
 
-   /user-management/users
-   /user-management/roles
+   /features/namespace
+   /features/cluster
+   /features/apps
+   /features/container
+   /features/environment
+   /features/networking
+   /features/volume
+   /features/resource
+   /features/build
+   /features/logs
+
+
+User & Role
+------------------------------
+
+Learn more about configuring your automated documentation builds
+and some of the core features of Read the Docs.
+
+* **Overview of core features**:
+  :doc:`/integrations` |
+  :doc:`/custom_domains` |
+  :doc:`/versions` |
+  :doc:`/downloadable-documentation` |
+  :doc:`/hosting` |
+  :doc:`/server-side-search` |
+  :doc:`/analytics` |
+  :doc:`/pull-requests` |
+  :doc:`/build-notifications` |
+  :doc:`/user-defined-redirects` |
+  :doc:`/security-log`
+
+* **Connecting with GitHub, BitBucket, or GitLab**:
+  :doc:`Connecting your VCS account </connected-accounts>`
+
+* **Read the Docs build process**:
+  :doc:`Configuration reference </config-file/index>` |
+  :doc:`Build process </builds>` |
+  :doc:`/environment-variables` |
+  :doc:`/badges`
+
+* **Troubleshooting**:
+  :doc:`/support` |
+  :doc:`Frequently asked questions </faq>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: User & Role
+
+   /userandrole/users
+   /userandrole//roles
 
 
 Container Deployment
@@ -175,179 +221,6 @@ and how to write successful documentation.
  /guides/authors
  /guides/administrators
  /guides/developers
-
-Application Configuration
-----------------------------------
-
-Read the Docs offers many advanced features and options.
-Learn more about these integrations and how you can get the most
-out of your documentation and Read the Docs.
-
-* **Advanced project configuration**:
-  :doc:`subprojects` |
-  :doc:`Single version docs <single_version>` |
-  :doc:`feature-flags`
-
-* **Multi-language documentation**:
-  :doc:`Translations and localization <localization>`
-
-* **Redirects**:
-  :doc:`Automatic redirects <automatic-redirects>`
-
-* **Versions**
-  :doc:`Automation rules <automation-rules>`
-
-* **Topic specific guides**:
-  :doc:`How-to guides <guides/index>`
-
-* **Extending Read the Docs**:
-  :doc:`REST API <api/index>`
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: Application Configuration
-
-
-   subprojects
-   single_version
-   feature-flags
-
-   localization
-
-   user-defined-redirects
-   automatic-redirects
-
-   automation-rules
-
-
-   api/index
-
-
-Volume
---------------------------
-
-Read the Docs has a commercial offering with improved support and additional features.
-
-* **Read the Docs for Business**:
-  :doc:`Organizations <commercial/organizations>` |
-  :doc:`Single Sign On <commercial/single-sign-on>` |
-  :doc:`Project Privacy Level <commercial/privacy-level>` |
-  :doc:`Sharing externally <commercial/sharing>`
-
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Volume
-   :glob:
-
-   commercial/*
-
-Resources
-------------------------------------------
-
-Learn about Read the Docs, the project and the company,
-and find out how you can get involved and contribute to the development and success
-of Read the Docs and the larger software documentation ecosystem.
-
-* **Policies & Process**:
-  :doc:`security` |
-  :doc:`DMCA takedown policy <dmca/index>` |
-  :doc:`Policy for abandoned projects <abandoned-projects>` |
-  :doc:`Release notes & changelog <changelog>`
-
-* **The people and philosophy behind Read the Docs**:
-  :doc:`About Us </about>` |
-  :doc:`Team <team>` |
-  :doc:`Open source philosophy <open-source-philosophy>` |
-  :doc:`Our story <story>`
-
-* **Financial and material support**:
-  :doc:`advertising/index` |
-  :doc:`Sponsors <sponsors>`
-
-* **Legal documents**:
-  :doc:`Terms of service <terms-of-service>` |
-  :doc:`Privacy policy <privacy-policy>` |
-  :doc:`Data processing agreement <legal/dpa/index>`
-
-* **Getting involved with Read the Docs**:
-  :doc:`Developer Documentation <rtd-dev:index>` |
-  :doc:`/gsoc`
-
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Resources
-   
-   security
-   dmca/index
-   abandoned-projects
-   changelog
-
-   about
-   team
-   open-source-philosophy
-   story
-
-   advertising/index
-   sponsors
-
-   legal/index
-
-   Developer Documentation <https://dev.readthedocs.io>
-   gsoc
-
-
-CI/CD
-----------------------------------
-
-Read the Docs offers many advanced features and options.
-Learn more about these integrations and how you can get the most
-out of your documentation and Read the Docs.
-
-* **Advanced project configuration**:
-  :doc:`subprojects` |
-  :doc:`Single version docs <single_version>` |
-  :doc:`feature-flags`
-
-* **Multi-language documentation**:
-  :doc:`Translations and localization <localization>`
-
-* **Redirects**:
-  :doc:`Automatic redirects <automatic-redirects>`
-
-* **Versions**
-  :doc:`Automation rules <automation-rules>`
-
-* **Topic specific guides**:
-  :doc:`How-to guides <guides/index>`
-
-* **Extending Read the Docs**:
-  :doc:`REST API <api/index>`
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: CI / CD
-
-   subprojects
-   single_version
-   feature-flags
-
-   localization
-
-   user-defined-redirects
-   automatic-redirects
-
-   automation-rules
-
-
-   api/index
 
 
 Monitoring
@@ -478,6 +351,54 @@ out of your documentation and Read the Docs.
    :hidden:
    :glob:
    :caption: TroubleShooting
+
+   subprojects
+   single_version
+   feature-flags
+
+   localization
+
+   user-defined-redirects
+   automatic-redirects
+
+   automation-rules
+
+
+   api/index
+
+
+Videos
+----------------------------------
+
+Read the Docs offers many advanced features and options.
+Learn more about these integrations and how you can get the most
+out of your documentation and Read the Docs.
+
+* **Advanced project configuration**:
+  :doc:`subprojects` |
+  :doc:`Single version docs <single_version>` |
+  :doc:`feature-flags`
+
+* **Multi-language documentation**:
+  :doc:`Translations and localization <localization>`
+
+* **Redirects**:
+  :doc:`Automatic redirects <automatic-redirects>`
+
+* **Versions**
+  :doc:`Automation rules <automation-rules>`
+
+* **Topic specific guides**:
+  :doc:`How-to guides <guides/index>`
+
+* **Extending Read the Docs**:
+  :doc:`REST API <api/index>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Videos
 
    subprojects
    single_version
