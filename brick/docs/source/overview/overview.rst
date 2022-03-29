@@ -1,4 +1,4 @@
-개요
+Overview
 =====
 
 |
@@ -13,20 +13,21 @@
 컨테이너 기술은 내부적으로 프로세스(그룹)를 격리하는 기능을 제공하여,
 사용자 환경 및 자원을 완전히 격리하여 완전히 독립적인 환경으로 동작하도록 지원합니다.
 머신러닝 개발 등 하나의 노드에서 다중 어플리케이션 환경을 배포하고 운영해야 하는 경우에
-가장 적합한 기술이라고 할 수 있습니다. 만일 기존 하나의 노드에서 그 모든 환경을 구현하고 운영한다면, 프로그램 간 호환성 문제와 자원 분배 등의 여러 문제가 발생할 것입니다.
+가장 적합한 기술이라고 할 수 있습니다. 
+만일 기존 하나의 노드에서 그 모든 환경을 구현하고 운영한다면, 프로그램 간 호환성 문제와 자원 분배 등의 여러 문제가 발생할 것입니다.
 
 
-.. figure:: /brick/docs/source/_static/images/overview/container-description1.png
+.. figure:: /_static/images/overview/container-description1.png
    :width: 40%
    :align: center
    :alt: 컨테이너 격리환경
 
 |
-컨테이너의 주요 특징
+Container Features
 ----------------
 
-* **빠른 어플리케이션 배포**
-* **어플리케이션의 이식성**
+* **빠른 어플리케이션 배포** : 사전에 빌드된 이미지를 통해 어플리케이션을 몇 분 만에 배포할 수 있습니다.
+* **어플리케이션의 이식성** : 
 * **버전 제어, 컴포넌트 재사용**
 * **유지관리의 용이성**
 
@@ -40,6 +41,25 @@
    - 개발-운영환경 간 마이그레이션 및 확장 간편
    - 온프레미스, 클라우드 등 환경에 제약받지 않고 무수정 배포 가능
 
+
+Brick은 이러한 컨테이너를 보다 편리하게 사용하고 관리할 수 있는 플랫폼을 제공합니다.
+
+
+* **Overview of core features**:
+  :doc:`/integrations` |
+  :doc:`/custom_domains` |
+  :doc:`/versions` |
+  :doc:`/downloadable-documentation` |
+  :doc:`/hosting` |
+  :doc:`/server-side-search` |
+  :doc:`/analytics` |
+  :doc:`/pull-requests` |
+  :doc:`/build-notifications` |
+  :doc:`/user-defined-redirects` |
+  :doc:`/security-log`
+
+* **Connecting with GitHub, BitBucket, or GitLab**:
+  :doc:`Connecting your VCS account </connected-accounts>`
 
 To use Lumache, first install it using pip:
 
