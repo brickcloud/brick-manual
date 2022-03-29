@@ -18,10 +18,10 @@ Overview
 
 
 .. figure:: /_static/images/overview/container-description1.png
-   :width: 40%
+   :width: 70%
    :align: center
    :alt: 컨테이너 격리환경
-
+   컨테이너 격리환경
 |
 Container Features
 ----------------
@@ -47,6 +47,12 @@ Container Features
 
 Brick은 이러한 컨테이너를 보다 편리하게 사용하고 관리할 수 있는 플랫폼을 제공합니다.
 
+.. figure:: /_static/images/overview/brick1.png
+   :width: 70%
+   :align: center
+   :alt: BRICK
+   BRICK
+   
 
 * **Overview of core features**:
   :doc:`/integrations` |
