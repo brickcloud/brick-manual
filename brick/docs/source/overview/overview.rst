@@ -22,7 +22,7 @@ Overview
    :width: 70%
    :align: center
    :alt: 컨테이너 격리환경
-   컨테이너 격리환경
+
 |
 Container Features
 ----------------
@@ -52,7 +52,6 @@ Brick은 이러한 컨테이너를 보다 편리하게 사용하고 관리할 �
    :width: 70%
    :align: center
    :alt: BRICK
-   BRICK
    
 
 * **Overview of core features**:
