@@ -10,8 +10,17 @@ Overview
 컨테이너 기술이 가진 다양한 장점 때문에, 
 최근에는 인공지능(머신러닝) 개발을 위한 플랫폼에 많이 사용되고 있습니다.
 
-Installation
+
+Container Feature
 ----------------
+
+**빠른 어플리케이션 배포**
+**어플리케이션의 이식성**
+**버전 제어, 컴포넌트 재사용**
+**유지관리의 용이성**
+
+
+
 
 To use Lumache, first install it using pip:
 
