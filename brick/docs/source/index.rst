@@ -5,7 +5,7 @@ Brick User Guide
 Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트웨어입니다. 
 기업들이 온프레미스 환경에서 컨테이너 기반의 애플리케이션들을 
 쉽고 빠르게 배포하고 운영 할 수 있도록 다양한 기능들을 제공하고 있습니다.
-    
+
 .. _Brick: http://brickcloud.co.kr/
 
 
@@ -23,6 +23,7 @@ Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트�
 *Low Price*|:dollar:|
     저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
 
+
 Features
 -----------
 * **Application Delivery / Management**
@@ -30,6 +31,7 @@ Features
 * **Scalability & High Availablity**
 * **Integrated Monitoring**
 |
+
 
 Overview
 -----------
