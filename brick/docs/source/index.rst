@@ -4,24 +4,24 @@ Brick User Guide
 |
 Brick_ 은 Google Kubernetes 기반의 컨테이너 관리 플랫폼 소프트웨어입니다. 
 기업들이 온프레미스 환경에서 컨테이너 기반의 애플리케이션들을 
-쉽고 빠르게 배포하고 운영 할 수 있도록 다양한 기능들을 제공하고 있습니다.
+빠르게 배포하고 운영 할 수 있도록 다양한 기능들을 제공하고 있습니다.
 
 .. _Brick: http://brickcloud.co.kr/
 
 
 *On-Demand Deploy*|:cloud_with_lightning:|
-    사용자가 요구하는 Application 환경을 필요한 시점에,
+    사용자 요구 Application 환경을 필요한 시점에,
     컨테이너 기반으로 신속하게 제공할 수 있습니다.
 
 *GPU Scheduling*|:1234:|
-    서버들의 GPU 자원을 클러스터로 통합하고,
+    서버들의 GPU 자원을 클러스터로 통합하여,
     인공지능(머신러닝) 개발 및 학습을 위해 필요한 GPU 개발환경을 제공합니다.
 
 *Container Monitoring*|:chart_with_downwards_trend:|
-    수많은 컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
+    컨테이너 기반의 Application들을 대시보드를 통해 편리하게 관리할 수 있습니다.
 
 *Low Price*|:dollar:|
-    저렴한 비용으로 자사 내에 Private 클라우드(컨테이너 기반의 PaaS) 서비스가 가능합니다.
+    저렴한 비용으로 컨테이너 기반의 On-Premise 클라우드를 구축할 수 있습니다.
 
 
 Features
