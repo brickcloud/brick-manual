@@ -17,11 +17,9 @@
 
 
 .. figure:: /brick/docs/source/_static/images/overview/container-description1.png
-   :width: 50%
+   :width: 40%
    :align: center
    :alt: 컨테이너 격리환경
-
-   컨테이너 격리환경
 
 |
 컨테이너의 주요 특징
