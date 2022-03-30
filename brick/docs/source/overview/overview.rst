@@ -47,9 +47,10 @@ Container Features
 
    컨테이너 기반 환경에서 컨테이너를 보다 효과적으로 사용하고 관리하기 위해서는,
    증가하는 컨테이너의 효율적인 운영 및 관리, 컴퓨팅 자원의 효과적인 사용 등에 대한 솔루션이 필요합니다.
-   Brick은 Kubernetes 기반에서 컨테이너를 배포/운영/관리할 수 있는 통합 관리 솔루션으로,
+   _Brick은 Kubernetes 기반에서 컨테이너를 배포/운영/관리할 수 있는 통합 관리 솔루션으로,
    컨테이너를 보다 편리하게 사용하고 관리할 수 있는 플랫폼을 제공합니다.
 
+.. _Brick: http://brickcloud.co.kr/
 
 .. figure:: /_static/images/overview/brick1.png
    :width: 70%
