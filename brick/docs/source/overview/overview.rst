@@ -45,15 +45,8 @@ Container Features
 |
 .. note::
 
-   컨테이너 기반 환경에서 컴퓨팅 자원의 효과적인 사용, 증가하는 컨테이너의 
-   효율적인 운영 및 관리를 위해서는 솔루션이 필요합니다.
-   Brick은 Kubernetes 기반에서 컨테이너를 배포/운영/관리할 수 있는 통합 관리 솔루션으로,
-   컨테이너를 보다 편리하게 사용하고 관리할 수 있는 플랫폼을 제공합니다.
-
-.. tip::
-
-   컨테이너 기반 환경에서 컴퓨팅 자원의 효과적인 사용, 증가하는 컨테이너의 
-   효율적인 운영 및 관리를 위해서는 솔루션이 필요합니다.
+   컨테이너 기반 환경에서 컨테이너를 보다 효과적으로 사용하고 관리하기 위해서는,
+   증가하는 컨테이너의 효율적인 운영 및 관리, 컴퓨팅 자원의 효과적인 사용 등에 대한 솔루션이 필요합니다.
    Brick은 Kubernetes 기반에서 컨테이너를 배포/운영/관리할 수 있는 통합 관리 솔루션으로,
    컨테이너를 보다 편리하게 사용하고 관리할 수 있는 플랫폼을 제공합니다.
 
@@ -63,46 +56,3 @@ Container Features
    :align: center
    :alt: BRICK
    
-
-* **Overview of core features**:
-  :doc:`/integrations` |
-  :doc:`/custom_domains` |
-  :doc:`/versions` |
-  :doc:`/downloadable-documentation` |
-  :doc:`/hosting` |
-  :doc:`/server-side-search` |
-  :doc:`/analytics` |
-  :doc:`/pull-requests` |
-  :doc:`/build-notifications` |
-  :doc:`/user-defined-redirects` |
-  :doc:`/security-log`
-
-* **Connecting with GitHub, BitBucket, or GitLab**:
-  :doc:`Connecting your VCS account </connected-accounts>`
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
